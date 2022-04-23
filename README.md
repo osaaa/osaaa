@@ -1,6 +1,6 @@
 ### Hi there! I'm Osa and welcome to my Github! 👋
 ![Osa's GitHub stats](https://github-readme-stats.vercel.app/api?username=osaaa&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaaa&layout=compact)](https://github.com/osaaa)
 
 <!--
 **osaaa/osaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
