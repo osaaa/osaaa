@@ -1,7 +1,10 @@
 ### Hi there! I'm Osa and welcome to my Github! 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaaa&layout=compact)](https://github.com/osaaa)
-
-![Osa's GitHub stats](https://github-readme-stats.vercel.app/api?username=osaaa&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **osaaa/osaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaaa&layout=compact)](https://github.com/osaaa)
+
+![Osa's GitHub stats](https://github-readme-stats.vercel.app/api?username=osaaa&show_icons=true&theme=dark)
+
 -->
