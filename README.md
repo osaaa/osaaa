@@ -1,7 +1,7 @@
 ### Hi there! I'm Osa and welcome to my Github! 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaaa&layout=compact)](https://github.com/osaaa)
 
-![Osa's GitHub stats](https://github-readme-stats.vercel.app/api?username=osaaa&show_icons=true&theme=dark)
+
 
 
 
